@@ -1,0 +1,54 @@
+
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    background-color: #f7d6f4;
+}
+
+.quote-generator {
+    margin: 20px;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(24, 3, 37, 0.2);
+}
+
+h1 {
+    padding: 20px;
+    font-size: 2em;
+    margin-bottom: 40px;
+}
+
+#quote-display {
+    font-size: 1.5em;
+    margin: 20px 0;
+    color: #333;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 1em;
+    color: #fff;
+    background-color: #007bff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+a {
+    display: inline-block;
+    margin-top: 10px;
+    text-decoration: none;
+    color: #06276e;
+    font-size: 1em;
+}
+
+a:hover {
+    text-decoration: underline;
+}
